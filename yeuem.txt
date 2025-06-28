@@ -1,7 +1,7 @@
 local TweenService = game:GetService("TweenService")
 
 -- 🔒 Key chính xác và link
-local trueKey = "thankforusescript"
+local trueKey = "50member"
 local getKeyLink = "https://link4m.com/dJEw4IPd"
 
 -- 📦 Tạo GUI
