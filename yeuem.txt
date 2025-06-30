@@ -153,7 +153,7 @@ checkBtn.MouseButton1Click:Connect(function()
 
 		if not success then
 			warn("Lỗi khi tải script: " .. tostring(err))
-			game.Players.LocalPlayer:Kick("Lỗi khi tải script, thử lại sau.")
+			game.Players.LocalPlayer:Kick("Lỗi khi tải script, join discord nói với ad để dc hỗ trợ.")
 		end
 	else
 		warnLabel.Text = "❌ Sai Key rồi bro ơi! - Hoặc bạn dùng unikey"
