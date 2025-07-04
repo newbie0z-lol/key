@@ -2,7 +2,7 @@ local TweenService = game:GetService("TweenService")
 
 -- 🔒 Key chính xác và link
 local trueKey = "waitforupdate"
-local getKeyLink = "https://link4m.com/b7xtoF"
+local getKeyLink = "https://link4m.com/dJEw4IPd"
 
 -- 📦 Tạo GUI
 local gui = Instance.new("ScreenGui")
